@@ -1,2 +1,4 @@
 克隆仓库到本地的时候反复报错connect to host github.com port 22: Connection refused
 -把用于登上github的代理关了就成功了
+合并时main分支与feat分支中merge内容不同但不报错
+-重新整理了创立文档与分支的顺序
