@@ -1,2 +1,2 @@
 克隆仓库到本地的时候反复报错connect to host github.com port 22: Connection refused
--
+-把用于登上github的代理关了就成功了
